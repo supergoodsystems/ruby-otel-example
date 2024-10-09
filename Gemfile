@@ -43,6 +43,6 @@ end
 
 
 gem "opentelemetry-sdk", "~> 1.5"
-gem "opentelemetry-instrumentation-all", "~> 0.62.1"
+gem "opentelemetry-instrumentation-all", "~> 0.66.0"
 
 gem "supergood", "~> 1.0"
